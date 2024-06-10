@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|c:\\users\\2000123584\\project\\hotpot\\hexaware-fsd-hotpot-final-version\\hotpot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|c:\\users\\2000123584\\project\\hotpot\\hexaware-fsd-hotpot-final-version\\hotpot\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|c:\\users\\2000123584\\project\\hotpot\\hexaware-fsd-hotpot-final-version\\hotpot\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\services\\customerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|c:\\users\\2000123584\\project\\hotpot\\hexaware-fsd-hotpot-final-version\\hotpot\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|c:\\users\\2000123584\\project\\hotpot\\hexaware-fsd-hotpot-final-version\\hotpot\\models\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|c:\\users\\2000123584\\project\\hotpot\\hexaware-fsd-hotpot-final-version\\hotpot\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Program.cs",
+              "RelativeDocumentMoniker": "HotPot\\Program.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Program.cs",
+              "RelativeToolTip": "HotPot\\Program.cs",
+              "ViewState": "AQIAACwAAABUzMzMzIwiwEMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:09:16.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HotPot\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "HotPot\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAB8AAACAaGZmZuYYwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:54:36.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Models\\User.cs",
+              "RelativeToolTip": "HotPot\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:28:53.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "HotPot\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "HotPot\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACUAAABAzMzMzEwmwDIAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:09:38.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerServices.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Services\\CustomerServices.cs",
+              "RelativeDocumentMoniker": "HotPot\\Services\\CustomerServices.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Services\\CustomerServices.cs",
+              "RelativeToolTip": "HotPot\\Services\\CustomerServices.cs",
+              "ViewState": "AQIAAHIAAAAANDMzM3MswIAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T17:02:37.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Models\\DTO\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "HotPot\\Models\\DTO\\ResetPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Models\\DTO\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "HotPot\\Models\\DTO\\ResetPasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:59:44.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

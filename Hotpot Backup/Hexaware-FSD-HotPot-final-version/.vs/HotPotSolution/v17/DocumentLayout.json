@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|c:\\users\\2000123584\\project\\hotpot\\hexaware-fsd-hotpot-final-version\\hotpot\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240C3B64-3281-47B9-A086-E7A6741800A8}|HotPot\\HotPot.csproj|solutionrelative:hotpot\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "HotPot\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\2000123584\\Project\\Hotpot\\Hexaware-FSD-HotPot-final-version\\HotPot\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "HotPot\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAMUBAAAAAAAAAIAtwNwBAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:19:49.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
